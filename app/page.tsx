@@ -23,8 +23,8 @@ export default function Home() {
             </li>
           </nav>
         </div>
-        <div className=" flex-1 w-full h-full bg-[url('/hero-banner-art.png')] bg-cover ">
-
+        <div className=" mask flex-1 w-full h-full bg-[url('/background-gradient.jpg')] bg-cover ">
+       
         </div>
       </div>
     </main>
