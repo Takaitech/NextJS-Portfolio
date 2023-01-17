@@ -103,11 +103,6 @@ image {
   height: 100%;
 }
 
-.mask { 
-  mask-image: url(../public/topograph-pattern.png);
-  -webkit-mask-image: url(../public/topograph-pattern.png);
-  mask-size: cover;
-}
 
 @media (prefers-color-scheme: dark) {
   html {
